@@ -1,0 +1,29 @@
+{
+  "name": "ptor-bdd",
+  "version": "1.0.0",
+  "description": "BDD framework using javascript",
+  "main": "index.js",
+  "scripts": {
+    "webdriver-update": "webdriver-manager update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakirhere/javascript-protactor-cucumber.git"
+  },
+  "keywords": [
+    "protractor",
+    "zakirhere"
+  ],
+  "author": "Zakir Sayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakirhere/javascript-protactor-cucumber/issues"
+  },
+  "homepage": "https://github.com/zakirhere/javascript-protactor-cucumber#readme",
+  "dependencies": {
+    "cucumber": "^3.1.0",
+    "protractor": "^5.2.0",
+    "protractor-cucumber-framework": "^4.1.1",
+    "webdriver-manager": "^12.0.6"
+  }
+}
